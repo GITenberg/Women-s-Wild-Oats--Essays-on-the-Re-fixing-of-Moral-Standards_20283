@@ -1,0 +1,30 @@
+_repo: Women-s-Wild-Oats--Essays-on-the-Re-fixing-of-Moral-Standards_20283
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hartley, C. Gasquoine (Catherine Gasquoine)
+    aliases:
+    - Hartley, Catherine Gasquoine
+    - Gallichan, Walter M., Mrs.
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '9204'
+    url: http://www.gutenberg.org/2009/agents/9204
+description: ''
+gutenberg_issued: '2007-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20283'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Social and moral questions'
+- !lcsh 'Women -- Great Britain'
+- !lcc 'HQ'
+title: 'Women''s Wild Oats: Essays on the Re-fixing of Moral Standards'
+url: http://www.gutenberg.org/ebooks/20283
