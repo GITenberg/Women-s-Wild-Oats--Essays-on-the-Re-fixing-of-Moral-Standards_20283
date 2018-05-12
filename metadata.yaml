@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '9204'
     url: http://www.gutenberg.org/2009/agents/9204
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20283#Women-s-Wild-Oats--Essays-on-the-Re-fixing-of-Moral-Standards
 gutenberg_issued: '2007-01-04'
 gutenberg_type: Text
 identifiers:
